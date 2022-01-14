@@ -1,4 +1,4 @@
-# Cytofin_Source_Data
+# Source Data Files for the Cytofin manuscript 
 Figure_2 : source data for the mean expression of healthy control files with and without stimulations in figure 2.\
 Figure_3: source data for the fcs files of the healthy control files pre and post cytofin normalization in figure 3.\
 Figure_4: source data for the population aboudnace and mean expression of the classified leukemia patient samples in figure 4.\
